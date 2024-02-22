@@ -7,6 +7,11 @@ text
 # Headers
 
 ```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
